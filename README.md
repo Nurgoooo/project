@@ -1,9 +1,16 @@
 # 🌟 ONETEST.THE TESTER APP
 **_Your way to the future_** 
 
-![Demo](project/materials/xx.png)
+![Demo](materials/x.png)
 
-Кітапханалар:
+
+## 🎯 Features
+- ✅ Modern and easy-to-use design  
+- ✅ Cross-platform support  
+- ✅ Highly customizable  
+- ✅ Well-documented and tested 
+
+Requirments:
 pip install customtkinter
 
 
